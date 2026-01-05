@@ -97,8 +97,8 @@ These findings can support marketing, retention, and pricing strategies.
 
 ▶️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/omarterjman/customer-behavior-analysis.git
+cd customer_behavior_analysis
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
